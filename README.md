@@ -1,2 +1,1 @@
-# sshtemplate 
-一些ssh会使用到的模板
+# 参见仓库:lab
